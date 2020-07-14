@@ -1,1 +1,1 @@
-# mathmatical-system-practice
+# mathematical-system-practice
